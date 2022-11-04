@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:05:29.547Z" agent="5.0 (Windows)" etag="08WYLD8tqh9bsLjBtiAK" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:08:26.518Z" agent="5.0 (Windows)" etag="nISE1NO0vY8-vbZPC5oK" version="20.5.1" type="github">
   <diagram id="C3EvFYBXCPJBYpzl61tp" name="Page-1">
     <mxGraphModel dx="3122" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1184,7 +1184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-401" value="From AWS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fontSize=8;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-162" y="5525.5" width="42" height="42" as="geometry" />
+          <mxGeometry x="-162" y="5524.5" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="MPUDES1Zdluhsn536lWw-1" value="Private subnet (snet-ss-endpoints-az1)" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="-272.5" y="4860" width="392.5" height="440" as="geometry" />

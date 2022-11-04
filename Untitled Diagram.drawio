@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:08:26.518Z" agent="5.0 (Windows)" etag="nISE1NO0vY8-vbZPC5oK" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:15:10.300Z" agent="5.0 (Windows)" etag="qIe3ZeeyAIeu8TILDhXF" version="20.5.1" type="github">
   <diagram id="C3EvFYBXCPJBYpzl61tp" name="Page-1">
     <mxGraphModel dx="3122" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1172,7 +1172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-437" value="Site to Site VPN" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="5522.5" width="48" height="48" as="geometry" />
+          <mxGeometry x="540" y="5521.5" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-442" style="edgeStyle=orthogonalEdgeStyle;rounded=1;jumpStyle=arc;jumpSize=16;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=1;fontSize=8;startSize=16;endSize=6;" parent="1" source="EJdikp-nXUX1OIDZG1Rw-439" target="EJdikp-nXUX1OIDZG1Rw-437" edge="1">
           <mxGeometry relative="1" as="geometry" />

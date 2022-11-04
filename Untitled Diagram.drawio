@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:20:00.037Z" agent="5.0 (Windows)" etag="OMU8eex4vmUn7gAFj4fi" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:20:28.270Z" agent="5.0 (Windows)" etag="wv43WszJtMKVWzqGtvW0" version="20.5.1" type="github">
   <diagram id="C3EvFYBXCPJBYpzl61tp" name="Page-1">
     <mxGraphModel dx="3122" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-365" value="TCP: 443&lt;br&gt;TCP: 10250&lt;br&gt;TCP &amp;amp; UDP: 53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="EJdikp-nXUX1OIDZG1Rw-364" vertex="1" connectable="0">
           <mxGeometry x="-0.7934" y="-1" relative="1" as="geometry">
-            <mxPoint x="-30" y="26" as="offset" />
+            <mxPoint x="-28" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJD0RJDrPQH6QeaNed0_-24" value="EKS" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;" parent="1" vertex="1">
@@ -198,7 +198,7 @@
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-387" value="TCP: 443&lt;br&gt;TCP: 10250&lt;br&gt;TCP &amp;amp; UDP: 53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" parent="EJdikp-nXUX1OIDZG1Rw-386" vertex="1" connectable="0">
           <mxGeometry x="-0.8274" y="2" relative="1" as="geometry">
-            <mxPoint x="-33" y="19" as="offset" />
+            <mxPoint x="-32" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJD0RJDrPQH6QeaNed0_-88" value="EKS" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;" parent="1" vertex="1">
@@ -343,7 +343,7 @@
         </mxCell>
         <mxCell id="EJdikp-nXUX1OIDZG1Rw-395" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;TCP: 443&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;TCP: 10250&lt;/span&gt;&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;TCP &amp;amp; UDP: 53&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="EJdikp-nXUX1OIDZG1Rw-394" vertex="1" connectable="0">
           <mxGeometry x="-0.7655" y="2" relative="1" as="geometry">
-            <mxPoint x="-32" y="12" as="offset" />
+            <mxPoint x="-32" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IJD0RJDrPQH6QeaNed0_-141" value="EKS" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#F78E04;gradientDirection=north;fillColor=#D05C17;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=10;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eks_cloud;" parent="1" vertex="1">
